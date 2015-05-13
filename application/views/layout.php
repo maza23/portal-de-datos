@@ -42,13 +42,13 @@
     <div class="navbar navbar-inverse header">
             
             <!-- Emergencia -->
-            <div style="background-color:#EF8D19;">
+            <!--div style="background-color:#EF8D19;">
                 <div class="row-fluid" style="text-align:center;">
                     <div class="span12">
                         <a href="http://www.onemi.gob.cl" target="_blank"><img src="<?php echo base_url('assets/img/banner/banner-emergencia-980x80.png') ?>" class="img-responsive" /></a>
                     </div>
                 </div>
-            </div>
+            </div-->
 
 			<div class="navbar-inner">
 				<div class="container">
